@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sussy_GF.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceleft0000" x="0" y="0" width="341" height="420" frameX="-3" frameY="-1" frameWidth="360" frameHeight="421"/>
+	<SubTexture name="danceleft0001" x="341" y="0" width="343" height="421" frameX="0" frameY="0" frameWidth="360" frameHeight="421"/>
+	<SubTexture name="danceleft0002" x="684" y="0" width="343" height="420" frameX="-1" frameY="-1" frameWidth="360" frameHeight="421"/>
+	<SubTexture name="danceleft0003" x="1027" y="0" width="334" height="414" frameX="-16" frameY="-7" frameWidth="360" frameHeight="421"/>
+	<SubTexture name="danceleft0004" x="1361" y="0" width="328" height="408" frameX="-30" frameY="-13" frameWidth="360" frameHeight="421"/>
+	<SubTexture name="danceleft0005" x="1689" y="0" width="330" height="408" frameX="-30" frameY="-13" frameWidth="360" frameHeight="421"/>
+	<SubTexture name="danceleft0006" x="0" y="421" width="327" height="408" frameX="-30" frameY="-13" frameWidth="360" frameHeight="421"/>
+	<SubTexture name="danceright0000" x="327" y="421" width="356" height="421" frameX="-1" frameY="0" frameWidth="360" frameHeight="421"/>
+	<SubTexture name="danceright0001" x="683" y="421" width="360" height="421"/>
+	<SubTexture name="danceright0002" x="1043" y="421" width="358" height="421" frameX="-1" frameY="0" frameWidth="360" frameHeight="421"/>
+	<SubTexture name="danceright0003" x="1401" y="421" width="342" height="415" frameX="-1" frameY="-2" frameWidth="360" frameHeight="421"/>
+	<SubTexture name="danceright0004" x="0" y="842" width="328" height="408" frameX="-1" frameY="-5" frameWidth="360" frameHeight="421"/>
+	<SubTexture name="danceright0005" x="328" y="842" width="330" height="408" frameX="0" frameY="-4" frameWidth="360" frameHeight="421"/>
+	<SubTexture name="danceright0006" x="658" y="842" width="327" height="408" frameX="-1" frameY="-5" frameWidth="360" frameHeight="421"/>
+</TextureAtlas>

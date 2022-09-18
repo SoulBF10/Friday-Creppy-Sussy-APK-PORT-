@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFunk.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ded0000" x="0" y="0" width="373" height="439" frameX="0" frameY="-11" frameWidth="373" frameHeight="450"/>
+	<SubTexture name="ded0001" x="373" y="0" width="354" height="442" frameX="-14" frameY="-5" frameWidth="373" frameHeight="450"/>
+	<SubTexture name="ded0002" x="727" y="0" width="344" height="444" frameX="-22" frameY="-1" frameWidth="373" frameHeight="450"/>
+	<SubTexture name="ded0003" x="1071" y="0" width="339" height="445" frameX="-26" frameY="0" frameWidth="373" frameHeight="450"/>
+	<SubTexture name="ded0004" x="1071" y="0" width="339" height="445" frameX="-26" frameY="0" frameWidth="373" frameHeight="450"/>
+	<SubTexture name="ded0005" x="1410" y="0" width="340" height="445" frameX="-25" frameY="0" frameWidth="373" frameHeight="450"/>
+	<SubTexture name="ded0006" x="0" y="445" width="341" height="444" frameX="-24" frameY="-1" frameWidth="373" frameHeight="450"/>
+</TextureAtlas>

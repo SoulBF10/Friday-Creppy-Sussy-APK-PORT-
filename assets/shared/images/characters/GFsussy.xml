@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFsussy.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceleft0000" x="0" y="0" width="366" height="429" frameX="0" frameY="0" frameWidth="399" frameHeight="430"/>
+	<SubTexture name="danceleft0001" x="366" y="0" width="348" height="419" frameX="-37" frameY="-11" frameWidth="399" frameHeight="430"/>
+	<SubTexture name="danceleft0002" x="714" y="0" width="337" height="413" frameX="-58" frameY="-17" frameWidth="399" frameHeight="430"/>
+	<SubTexture name="danceleft0003" x="1051" y="0" width="339" height="413" frameX="-60" frameY="-17" frameWidth="399" frameHeight="430"/>
+	<SubTexture name="danceleft0004" x="1051" y="0" width="339" height="413" frameX="-60" frameY="-17" frameWidth="399" frameHeight="430"/>
+	<SubTexture name="danceleft0005" x="1390" y="0" width="338" height="413" frameX="-60" frameY="-17" frameWidth="399" frameHeight="430"/>
+	<SubTexture name="danceleft0006" x="337" y="853" width="336" height="413" frameX="-60" frameY="-17" frameWidth="395" frameHeight="432"/>
+	<SubTexture name="danceright0000" x="0" y="429" width="370" height="424" frameX="-25" frameY="-8" frameWidth="395" frameHeight="432"/>
+	<SubTexture name="danceright0001" x="370" y="429" width="350" height="418" frameX="-11" frameY="-3" frameWidth="395" frameHeight="432"/>
+	<SubTexture name="danceright0002" x="720" y="429" width="339" height="414" frameX="-4" frameY="-1" frameWidth="395" frameHeight="432"/>
+	<SubTexture name="danceright0003" x="1059" y="429" width="339" height="416" frameX="0" frameY="0" frameWidth="395" frameHeight="432"/>
+	<SubTexture name="danceright0004" x="1398" y="429" width="339" height="416" frameX="0" frameY="0" frameWidth="395" frameHeight="432"/>
+	<SubTexture name="danceright0005" x="0" y="853" width="337" height="414" frameX="-3" frameY="-1" frameWidth="395" frameHeight="432"/>
+	<SubTexture name="danceright0006" x="337" y="853" width="336" height="413" frameX="-4" frameY="-1" frameWidth="395" frameHeight="432"/>
+	<SubTexture name="danceright0007" x="337" y="853" width="336" height="413" frameX="-4" frameY="-1" frameWidth="395" frameHeight="432"/>
+</TextureAtlas>
