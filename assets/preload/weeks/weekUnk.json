@@ -1,0 +1,31 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"crazy hands",
+			"unk",
+			[
+				66,
+				113,
+				213
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "weekUnk"
+}
