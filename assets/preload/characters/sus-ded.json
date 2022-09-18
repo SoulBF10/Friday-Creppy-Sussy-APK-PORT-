@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "bf sus ded"
+		},
+		{
+			"offsets": [
+				-25,
+				21
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "bf ded beating"
+		},
+		{
+			"offsets": [
+				-25,
+				205
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "bfDEDI beating confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sus-ded",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bfsus",
+	"flip_x": true,
+	"healthbar_colors": [
+		77,
+		200,
+		231
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

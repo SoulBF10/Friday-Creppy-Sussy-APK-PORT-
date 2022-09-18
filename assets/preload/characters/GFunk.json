@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ded"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GFunk",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
